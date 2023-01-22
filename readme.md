@@ -1,4 +1,5 @@
-# Time Series
+# TimeSeries
 
-All analysis with description and code for Time Series using Classical Methods and ML models.
+This project consistis of all the description, analysis and code for Time Series Classic Algorithms and ML based Algorithms.
+
 
